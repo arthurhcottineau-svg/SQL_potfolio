@@ -11,4 +11,22 @@ Ce projet démontre ma capacité à gérer des structures de données imbriquée
 
 La requête dans `edinburgh_bus_transport.sql` permet de trouver tous les trajets impliquant deux bus entre 'Craiglockhart' et 'Lochend', en identifiant l'arrêt de transfert.
 
-*Actuellement en recherche d'une alternance en Data Analyse. Passionné par la transformation de données brutes en insights actionnables.*
+## 🎓 Projet : Système de Notation (HackerRank - The Report)
+Ce projet illustre l'application de règles métier complexes directement en SQL.
+
+### 🔍 Compétences clés démontrées :
+* **Non-Equi Joins :** Jointure de tables via des intervalles de valeurs (`BETWEEN`).
+* **Logique Conditionnelle :** Utilisation de `CASE WHEN` pour le masquage dynamique de données sensibles.
+* **Tri Multi-niveaux :** Mise en place d'un système de tri prioritaire alternant entre texte et
+
+## 🛠️ Outils & Technologies
+* **Langages :** SQL (PostgreSQL / MySQL)
+* **Plateformes d'entraînement :** SQLZoo, HackerRank
+* **Concepts maîtrisés :** Agrégations complexes, Sous-requêtes, Self-joins, Fenêtrage (Window Functions).
+
+## 🚀 À propos de moi
+Passionné par l'analyse de données et la résolution de problèmes complexes, je suis actuellement en préparation pour intégrer une **formation de Data Analyst (Liora)**. Je recherche activement une **alternance** pour mettre mes compétences techniques au service d'une entreprise et transformer les données brutes en leviers de décision.
+
+📫 **Me contacter :** * arthur.h.cottineau@gmail.com
+
+
